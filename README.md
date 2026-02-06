@@ -12,7 +12,7 @@ Le projet a été réalisé dans le cadre d’un exercice pédagogique visant à
 - utiliser des outils d’intelligence artificielle dans le développement
 - appliquer des bonnes pratiques de documentation open source.
 
----
+
 
 ## Objectifs du projet
 
